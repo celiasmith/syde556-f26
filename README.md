@@ -4,8 +4,7 @@ Course website: http://compneuro.uwaterloo.ca/courses/syde-750.html
 
 Fall 2026 — classes run Sep 9 to Dec 8. Tuesdays 12:00–1:50 and Thursdays
 12:00–12:50, in E5 2004. There are no classes during reading week (Oct 13
-and Oct 15). The authoritative schedule and course policies are in the course
-outline at [outline.uwaterloo.ca](https://outline.uwaterloo.ca).
+and Oct 15). 
 
 ## 🎒 Lectures
 
@@ -32,16 +31,13 @@ Slides and notes will be linked here as the term progresses.
 ## 📓 Practice Notebooks
 
 There are no graded programming assignments in this course. Instead, six
-**ungraded practice notebooks** (PN1–PN6) will be posted here over the term.
-They are study tools, not deliverables — nothing is handed in.
+ungraded practice notebooks (PN1–PN6) will be posted here over the term.
 
 - Each notebook covers the material for the test that follows it, and one or
   two questions on each test come directly from the matching notebook.
 - No solutions are released. Instead, each part ends with a qualitative
-  *expected-result checkpoint* so you can verify your work yourself.
-- You are encouraged to work through the notebooks however you learn best —
-  alone, with others, or with whatever tools you like. The tests are where
-  you show what you know.
+  expected-result checkpoint so you can verify your work yourself.
+- You are expected to work through the notebooks individually.
 
 The notebooks require `nengo`, `nengo_spa`, `numpy`, `matplotlib`, and
 `scipy`. PN1 and PN2 are pure `numpy`, so you hand-code decoders yourself;
@@ -49,7 +45,7 @@ PN3 onward uses Nengo.
 
 ## 📝 Tests
 
-There are **six closed-book, on-paper tests**, written in class during the
+There are six closed-book tests, written in class during the
 last 30 minutes of a Thursday lecture, roughly every two weeks. The lowest
 of the six marks is dropped.
 
