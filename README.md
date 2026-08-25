@@ -44,6 +44,11 @@ The notebooks require `nengo`, `nengo_spa`, `numpy`, `matplotlib`, and
 PN3 onward uses Nengo.
 
 - PN1 - Neurons and Population Representation [[Notebook](https://github.com/celiasmith/syde556-f26/raw/master/practice_notebooks/556_PN1_neurons_and_population.ipynb)]
+- PN2 - Temporal Representation and Transformations [[Notebook]<!--(https://github.com/celiasmith/syde556-f26/raw/master/practice_notebooks/556_PN2_temporal_and_transformations.ipynb)-->]
+- PN3 - Nengo and Simple Dynamics [[Notebook]<!--(https://github.com/celiasmith/syde556-f26/raw/master/practice_notebooks/556_PN3_nengo_and_simple_dynamics.ipynb)-->]
+- PN4 - Decision Making, Learning, and the LMU [[Notebook]<!--(https://github.com/celiasmith/syde556-f26/raw/master/practice_notebooks/556_PN4_decision_learning_and_lmu.ipynb)-->]
+- PN5 - Symbols and the Semantic Pointer Architecture [[Notebook]<!--(https://github.com/celiasmith/syde556-f26/raw/master/practice_notebooks/556_PN5_symbols_and_spa.ipynb)-->]
+- PN6 - Spatial Semantic Pointers [[Notebook]<!--(https://github.com/celiasmith/syde556-f26/raw/master/practice_notebooks/556_PN6_spatial_semantic_pointers.ipynb)-->]
 
 ## 📝 Tests
 
