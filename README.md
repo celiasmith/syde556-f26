@@ -2,69 +2,62 @@
 
 Course website: http://compneuro.uwaterloo.ca/courses/syde-750.html
 
+Fall 2026 — classes run Sep 9 to Dec 8. Tuesdays 12:00–1:50 and Thursdays
+12:00–12:50, in E5 2004. There are no classes during reading week (Oct 13
+and Oct 15). The authoritative schedule and course policies are in the course
+outline at [outline.uwaterloo.ca](https://outline.uwaterloo.ca).
+
 ## 🎒 Lectures
 
-- Sep 4 - Administrative Remarks [[Slides](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_00/syde556_lecture_00_slides_distr.pdf)] [[Notes](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_00/syde556_lecture_00_notes.pdf)]
-- Sep 4 - Introduction [[Slides](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_01/syde556_lecture_01_slides_distr.pdf)] [[Notes](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_01/syde556_lecture_01_notes.pdf)]
-- Sep 9 - Neurons [[Slides](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_02/syde556_lecture_02_slides_distr.pdf)] [[Notes](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_02/syde556_lecture_02_notes.pdf)] 
-- Sep 11, 16 - Population Representation [[Slides](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_03/syde556_lecture_03_slides_distr.pdf)] [[Notes](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_03/syde556_lecture_03_notes.pdf)] 
-- Sep 18, 23 - Temporal Representation [[Slides](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_04/syde556_lecture_04_slides_distr.pdf)] [[Notes](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_04/syde556_lecture_04_notes.pdf)]
-- Sept 25, 30 - Feedforward Transformations [[Slides](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_05/syde556_lecture_05_slides_distr.pdf)] [[Notes](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_05/syde556_lecture_05_notes.pdf)]
-- Oct 2 - Nengo Tutorial [[Install Nengo](https://www.nengo.ai/getting-started/)]
-- Oct 7, 9 - Recurrent Dynamics [[Slides](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_06/syde556_lecture_06_slides_distr.pdf)] [[Notes](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_06/syde556_lecture_06_notes.pdf)]
-- Oct 21 - Temporal Basis Functions [[Slides](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_07/syde556_lecture_07_slides_distr.pdf)] [[Notes](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_07/syde556_lecture_07_notes.pdf)] [[LMU Overview](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_07/LMU%20Overview%20for%20SYDE%20556.pdf)]
-- Oct 23, 28, 30 - Learning [[Slides](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_08/syde556_lecture_08_slides_distr.pdf)] [[Notes](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_08/syde556_lecture_08_notes.pdf)] [[Neuromorphics Bonus](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_05/neuromorphics_intro_2022.pdf)] [[Adaptive Control Example](https://github.com/tcstewar/nengo_learning_examples/blob/master/control/pendulum_pd_adaptive.py)]
-- Nov 4 - Analysing Representation [[Slides](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_09/syde556_lecture_09_slides_distr.pdf)] [[Notes](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_09/syde556_lecture_09_notes.pdf)]
-- Nov 6, 11 - Symbols [[Slides](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_10/syde556_lecture_10_slides_distr.pdf)] [[Notes](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_10/syde556_lecture_10_notes.pdf)]
-- Nov 13, 18 - Semantic Pointer Architecture [[Slides](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_11/syde556_lecture_11_slides_distr.pdf)] [[Notes](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_11/syde556_lecture_11_notes.pdf)]
-- Nov 20 - Spatial Semantic Pointers [[Slides](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_14/syde556_lecture_14_slides.pdf)] [[Notes](https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_14/syde556_lecture_14_notes.pdf)]
-- Nov 25, 27, Dec 2 - Conclusion [[Slides]<!--(https://github.com/celiasmith/syde556-f24/raw/master/lectures/lecture_14/syde556_lecture_13_slides.pdf)-->]
+Slides and notes will be linked here as the term progresses.
 
-## 📝 Assignments
+- Sep 10 - Administrative Remarks [[Slides]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_00/syde556_lecture_00_slides_distr.pdf)-->] [[Notes]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_00/syde556_lecture_00_notes.pdf)-->]
+- Sep 10 - Introduction [[Slides]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_01/syde556_lecture_01_slides_distr.pdf)-->] [[Notes]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_01/syde556_lecture_01_notes.pdf)-->]
+- Sep 15 - Neurons [[Slides]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_02/syde556_lecture_02_slides_distr.pdf)-->] [[Notes]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_02/syde556_lecture_02_notes.pdf)-->]
+- Sep 17, 22 - Population Representation [[Slides]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_03/syde556_lecture_03_slides_distr.pdf)-->] [[Notes]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_03/syde556_lecture_03_notes.pdf)-->]
+- Sep 24, 29 - Temporal Representation [[Slides]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_04/syde556_lecture_04_slides_distr.pdf)-->] [[Notes]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_04/syde556_lecture_04_notes.pdf)-->]
+- Oct 1, 6 - Feedforward Transformations [[Slides]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_05/syde556_lecture_05_slides_distr.pdf)-->] [[Notes]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_05/syde556_lecture_05_notes.pdf)-->]
+- Oct 8 - Nengo Tutorial [[Install Nengo](https://www.nengo.ai/getting-started/)]
+- Oct 20, 22 - Recurrent Dynamics [[Slides]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_06/syde556_lecture_06_slides_distr.pdf)-->] [[Notes]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_06/syde556_lecture_06_notes.pdf)-->]
+- Oct 27 - Temporal Basis Functions [[Slides]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_07/syde556_lecture_07_slides_distr.pdf)-->] [[Notes]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_07/syde556_lecture_07_notes.pdf)-->] [[LMU Overview]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_07/LMU%20Overview%20for%20SYDE%20556.pdf)-->]
+- Oct 29, Nov 3, 5 - Learning [[Slides]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_08/syde556_lecture_08_slides_distr.pdf)-->] [[Notes]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_08/syde556_lecture_08_notes.pdf)-->] [[Neuromorphics Bonus]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_05/neuromorphics_intro_2022.pdf)-->] [[Adaptive Control Example]<!--(https://github.com/tcstewar/nengo_learning_examples/blob/master/control/pendulum_pd_adaptive.py)-->] (project proposal due Oct 29)
+- Nov 10 - Analysing Representation [[Slides]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_09/syde556_lecture_09_slides_distr.pdf)-->] [[Notes]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_09/syde556_lecture_09_notes.pdf)-->]
+- Nov 12, 17 - Symbols [[Slides]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_10/syde556_lecture_10_slides_distr.pdf)-->] [[Notes]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_10/syde556_lecture_10_notes.pdf)-->]
+- Nov 19, 24 - Semantic Pointer Architecture [[Slides]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_11/syde556_lecture_11_slides_distr.pdf)-->] [[Notes]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_11/syde556_lecture_11_notes.pdf)-->]
+- Nov 26, Dec 1 - Spatial Semantic Pointers [[Slides]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_14/syde556_lecture_14_slides.pdf)-->] [[Notes]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_14/syde556_lecture_14_notes.pdf)-->]
+- Dec 3 - Conclusion [[Slides]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_13/syde556_lecture_13_slides.pdf)-->]
+- Dec 8 - Project Presentations
+- Dec 18 - Projects due (midnight ET)
 
-The five assignments will be posted here.
+## 📓 Practice Notebooks
 
- * Do not copy any code from other students or online sources.  You are expected to write your own code from scratch for this course.
- * Each student must write their own code and submit their own assignment.
- * Assignments are due _at 11:59pm EST_.  The late penalty is one mark per day it is late. You may be at most seven days late.
- * **Please read and follow the instructions regarding submission posted on the front page of each assignment.**
- 
-### Assignment 1 ― due Sept 30, 2024
+There are no graded programming assignments in this course. Instead, six
+**ungraded practice notebooks** (PN1–PN6) will be posted here over the term.
+They are study tools, not deliverables — nothing is handed in.
 
--   **Instructions**  
-  [[Download PDF](https://github.com/celiasmith/syde556-f24/raw/master/assignments/assignment_01/syde556_assignment_01.pdf)]
+- Each notebook covers the material for the test that follows it, and one or
+  two questions on each test come directly from the matching notebook.
+- No solutions are released. Instead, each part ends with a qualitative
+  *expected-result checkpoint* so you can verify your work yourself.
+- You are encouraged to work through the notebooks however you learn best —
+  alone, with others, or with whatever tools you like. The tests are where
+  you show what you know.
 
--   **Jupyter Notebook Template**  
-  [[Download Jupyter Notebook](https://github.com/celiasmith/syde556-f24/raw/master/assignments/assignment_01/syde556_assignment_01_template.ipynb)]
+The notebooks require `nengo`, `nengo_spa`, `numpy`, `matplotlib`, and
+`scipy`. PN1 and PN2 are pure `numpy`, so you hand-code decoders yourself;
+PN3 onward uses Nengo.
 
+## 📝 Tests
 
-### Assignment 2 ― due Oct 21, 2024
+There are **six closed-book, on-paper tests**, written in class during the
+last 30 minutes of a Thursday lecture, roughly every two weeks. The lowest
+of the six marks is dropped.
 
--   **Instructions**  
-  [[Download PDF](https://github.com/celiasmith/syde556-f24/raw/master/assignments/assignment_02/syde556_assignment_02.pdf)]
-
--   **Jupyter Notebook Template**  
-  [[Download Jupyter Notebook](https://github.com/celiasmith/syde556-f24/raw/master/assignments/assignment_02/syde556_assignment_02_template.ipynb)]
-
-### Assignment 3 ― due Nov 4, 2024
-
--   **Instructions**  
-  [[Download PDF](https://github.com/celiasmith/syde556-f24/raw/master/assignments/assignment_03/syde556_assignment_03.pdf)]
-
--   **Jupyter Notebook Template**  
-  [[Download Jupyter Notebook](https://github.com/celiasmith/syde556-f24/raw/master/assignments/assignment_03/syde556_assignment_03_template.ipynb)]
-
-### Assignment 4 ― due Nov 18, 2024
-
--   **Instructions**  
-  [[Download PDF](https://github.com/celiasmith/syde556-f24/raw/master/assignments/assignment_04/syde556_assignment_04.pdf)]
-
--   **Jupyter Notebook Template**  
-  [[Download Jupyter Notebook](https://github.com/celiasmith/syde556-f24/raw/master/assignments/assignment_04/syde556_assignment_04_template.ipynb)]
-
-### Assignment 5 ― due Dec 2, 2024
-
--   **Jupyter Notebook Template**  
-  [[Download Jupyter Notebook](https://github.com/celiasmith/syde556-f24/raw/master/assignments/assignment_05/syde556_assignment_05_template.ipynb)]
-  <br>Note: All Instructions are included in the notebook.
- 
+| Notebook | Posted | Test | Test date |
+|---|---|---|---|
+| PN1 | Sep 10 | T1 | Sep 24 |
+| PN2 | Sep 22 | T2 | Oct 8 |
+| PN3 | Oct 6 | T3 | Oct 29 |
+| PN4 | Oct 27 | T4 | Nov 12 |
+| PN5 | Nov 10 | T5 | Nov 26 |
+| PN6 | Nov 24 | T6 | Dec 3 |
