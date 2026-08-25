@@ -43,6 +43,8 @@ The notebooks require `nengo`, `nengo_spa`, `numpy`, `matplotlib`, and
 `scipy`. PN1 and PN2 are pure `numpy`, so you hand-code decoders yourself;
 PN3 onward uses Nengo.
 
+- PN1 - Neurons and Population Representation [[Notebook](https://github.com/celiasmith/syde556-f26/raw/master/practice_notebooks/556_PN1_neurons_and_population.ipynb)]
+
 ## 📝 Tests
 
 There are six closed-book tests, written in class during the
@@ -51,7 +53,7 @@ of the six marks is dropped.
 
 | Notebook | Posted | Test | Test date |
 |---|---|---|---|
-| PN1 | Sep 10 | T1 | Sep 24 |
+| [PN1](https://github.com/celiasmith/syde556-f26/raw/master/practice_notebooks/556_PN1_neurons_and_population.ipynb) | Sep 10 | T1 | Sep 24 |
 | PN2 | Sep 22 | T2 | Oct 8 |
 | PN3 | Oct 6 | T3 | Oct 29 |
 | PN4 | Oct 27 | T4 | Nov 12 |
