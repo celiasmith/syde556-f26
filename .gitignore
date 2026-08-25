@@ -24,3 +24,5 @@ build/
 *.synctex.gz
 *.cpt
 *code/
+# Local working notes for Claude, not part of the course material
+CLAUDE.md
