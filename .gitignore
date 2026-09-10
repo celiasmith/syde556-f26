@@ -26,3 +26,6 @@ build/
 *code/
 # Local working notes for Claude, not part of the course material
 CLAUDE.md
+
+# VS Code workspace settings (LaTeX Workshop build recipe) — local only
+.vscode/
