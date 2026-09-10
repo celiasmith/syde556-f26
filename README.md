@@ -10,7 +10,7 @@ and Oct 15).
 
 Slides and notes will be linked here as the term progresses.
 
-- Sep 10 - Administrative Remarks [[Slides](https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_00/syde556_lecture_00_slides_distr.pdf)] [[Notes]-(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_00/syde556_lecture_00_notes.pdf]
+- Sep 10 - Administrative Remarks [[Slides](https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_00/syde556_lecture_00_slides_distr.pdf)] [[Notes](https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_00/syde556_lecture_00_notes.pdf)]
 - Sep 10 - Introduction [[Slides](https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_01/syde556_lecture_01_slides_distr.pdf)] [[Notes](https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_01/syde556_lecture_01_notes.pdf)]
 - Sep 15 - Neurons [[Slides]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_02/syde556_lecture_02_slides_distr.pdf)-->] [[Notes]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_02/syde556_lecture_02_notes.pdf)-->]
 - Sep 17, 22 - Population Representation [[Slides]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_03/syde556_lecture_03_slides_distr.pdf)-->] [[Notes]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_03/syde556_lecture_03_notes.pdf)-->]
