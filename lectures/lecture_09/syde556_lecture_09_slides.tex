@@ -128,6 +128,20 @@
     2D and 4D singular values compared to the prediction of the multiset (i.e., number of cross terms).
 	\end{frame}
 
+	\begin{frame}{Which Basis Functions Survive Noise?}
+		The residual representation error under noise with variance $\sigma_\eta^2$:
+		\begin{align*}
+			E_r &= \left\langle \mathbf{x}^{2}\right\rangle_{\mathbf{x}}
+			- \sum_{m}\frac{\left\langle \chi_{m}\mathbf{x}\right\rangle_{\mathbf{x}}^{2}}{S_{m}+\sigma_{\eta}^{2}}
+		\end{align*}
+		\begin{itemize}
+			\setlength{\itemsep}{0.4cm}
+			\item<2-> Each basis function $\chi_m$ reduces the error by an amount \hl{discounted by the noise}
+			\item<3-> Once $S_m \leq \sigma_\eta^2$ (SNR $\leq 1$), the projection onto $\chi_m$ is mis-normalized and \emph{introduces} error
+			\item<4-> $\Rightarrow$ \hl{Only basis functions with $S_m > \sigma_\eta^2$ are useful} -- the noise sets the dimensionality of the representation
+		\end{itemize}
+	\end{frame}
+
 	\begin{frame}{Conclusions}
 		\begin{itemize}
 			\setlength{\itemsep}{0.5cm}
