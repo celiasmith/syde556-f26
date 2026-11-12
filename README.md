@@ -24,7 +24,7 @@ Slides and notes will be linked here as the term progresses.
 - Nov 12, 17 - Symbols [[Slides](https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_10/syde556_lecture_10_slides_distr.pdf)] [[Notes](https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_10/syde556_lecture_10_notes.pdf)]
 - Nov 19 (guest lecturer Dr. Michael Furlong), 24 - Semantic Pointer Architecture [[Slides]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_11/syde556_lecture_11_slides_distr.pdf)-->] [[Notes]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_11/syde556_lecture_11_notes.pdf)-->]
 - Nov 26, Dec 1 - Spatial Semantic Pointers [[Slides]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_14/syde556_lecture_14_slides.pdf)-->] [[Notes]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_14/syde556_lecture_14_notes.pdf)-->] Conclusion [[Slides]<!--(https://github.com/celiasmith/syde556-f26/raw/master/lectures/lecture_13/syde556_lecture_13_slides.pdf)-->]
-- Dec 3 - Project Presentations 
+- Dec 3 - Project Presentations (1p start)
 - Dec 8 - Project Work (no class)
 - Dec 18 - Projects due (midnight ET)
 
