@@ -42,7 +42,7 @@ In his 2002 book \enquote{Foundations of Language: Brain, Meaning, Grammar, Evol
 \newcommand{\BC}{$\color{RoyalBlue}\bullet$}
 \begin{itemize}
 	\item \textbf{The Binding Problem.} Suppose you see a red square and a blue circle. How does the concept of \enquote{red} get bound with the concept of \enquote{square}, and how is it kept separate from \enquote{blue} and \enquote{circle}?
-	\item \textbf{The Problem of Two.} Consider the sentence \enquote{the little star is besides the big star}. How do we keep those two uses of the concept \enquote{star} separate? For example, if there was a group of neurons representing the concept of \enquote{star}, how can this group of neurons both represent the \enquote{little star}, the \enquote{big star}, as well as the fact that the two stars are next to each other?
+	\item \textbf{The Problem of Two.} Consider the sentence \enquote{the little star is beside the big star}. How do we keep those two uses of the concept \enquote{star} separate? For example, if there was a group of neurons representing the concept of \enquote{star}, how can this group of neurons both represent the \enquote{little star}, the \enquote{big star}, as well as the fact that the two stars are next to each other?
 	\item \textbf{The Problem of Variables.} Grammar imposes certain rules on sentences. For example, it is \enquote{correct} to say \enquote{blue $x$}, if $x$ is a noun, but not \enquote{blue $y$}, if $y$ is a verb. Correspondingly, the question is how these rules, which rely on placeholders, or \enquote{variables}, are represented in the brain.
 	\item \textbf{Working Memory versus Long-Term Memory.} We can both \emph{use} sentences (and keep them in working memory; i.e., current neural activities), while also being able to \emph{store} them for very long times (long-term memory; synaptic weights). A neural architecture of language must explain how sentences can be transferred from working memory to long-term memory and back. In other words, we must be able to turn representations from neural activities into synaptic weight changes.
 \end{itemize}
@@ -340,9 +340,9 @@ The above example demonstrated that we can solve cognitively challenging tasks u
 	\begin{align*}
 		\Obj{RED} \CC \Obj{SQUARE} + \Obj{BLUE} \CC \Obj{CIRCLE} \,.
 	\end{align*}
-	\item \textbf{The Problem of Two.} This problem is concerned with the question of how the same concept can be active at the same time in two different contexts. We also had a glance at a solution to this particular problem above: we can simply use symbols denoting the role of individual concepts. Consider the sentence \enquote{the little star is besides the big star}. We can express this in the following way:
+	\item \textbf{The Problem of Two.} This problem is concerned with the question of how the same concept can be active at the same time in two different contexts. We also had a glance at a solution to this particular problem above: we can simply use symbols denoting the role of individual concepts. Consider the sentence \enquote{the little star is beside the big star}. We can express this in the following way:
 	\begin{align*}
-		\Obj{OBJ1} \CC (\Obj{TYPE} \CC \Obj{STAR} + \Obj{SIZE} \CC \Obj{LITTLE}) + \Obj{OBJ2} \CC (\Obj{TYPE} \CC \Obj{STAR} + \Obj{SIZE} \CC \Obj{BIG}) + \Obj{REL} \CC \Obj{BESIDES}
+		\Obj{OBJ1} \CC (\Obj{TYPE} \CC \Obj{STAR} + \Obj{SIZE} \CC \Obj{LITTLE}) + \Obj{OBJ2} \CC (\Obj{TYPE} \CC \Obj{STAR} + \Obj{SIZE} \CC \Obj{BIG}) + \Obj{REL} \CC \Obj{BESIDE}
 	\end{align*}
 	\item \textbf{The Problem of Variables.} Here the problem was that language seems to be governed by abstract rules using placeholders. For example, we know that the adjective $\Obj{RED}$ can only be followed by a noun. This rule could be expressed as
 	\begin{align*}
