@@ -48,7 +48,7 @@ PN3 onward uses Nengo.
 - PN3 - Nengo and Simple Dynamics [[Notebook](https://github.com/celiasmith/syde556-f26/raw/master/practice_notebooks/556_PN3_nengo_and_simple_dynamics.ipynb)]
 - PN4 - Decision Making, Learning, and the LMU [[Notebook](https://github.com/celiasmith/syde556-f26/raw/master/practice_notebooks/556_PN4_decision_learning_and_lmu.ipynb)]
 - PN5 - Symbols and the Semantic Pointer Architecture [[Notebook](https://github.com/celiasmith/syde556-f26/raw/master/practice_notebooks/556_PN5_symbols_and_spa.ipynb)]
-- PN6 - Spatial Semantic Pointers [[Notebook]<!--(https://github.com/celiasmith/syde556-f26/raw/master/practice_notebooks/556_PN6_spatial_semantic_pointers.ipynb)-->]
+- PN6 - Spatial Semantic Pointers [[Notebook](https://github.com/celiasmith/syde556-f26/raw/master/practice_notebooks/556_PN6_spatial_semantic_pointers.ipynb)]
 
 ## 📝 Tests
 
@@ -63,4 +63,4 @@ of the six marks is dropped.
 | [PN3](https://github.com/celiasmith/syde556-f26/raw/master/practice_notebooks/556_PN3_nengo_and_simple_dynamics.ipynb) | Oct 6 | T3 | Oct 29 |
 | [PN4](https://github.com/celiasmith/syde556-f26/raw/master/practice_notebooks/556_PN4_decision_learning_and_lmu.ipynb) | Oct 27 | T4 | Nov 12 |
 | [PN5](https://github.com/celiasmith/syde556-f26/raw/master/practice_notebooks/556_PN5_symbols_and_spa.ipynb) | Nov 10 | T5 | Nov 26 |
-| PN6 | Nov 24 | T6 | Dec 3 |
+| [PN6](https://github.com/celiasmith/syde556-f26/raw/master/practice_notebooks/556_PN6_spatial_semantic_pointers.ipynb) | Nov 24 | T6 | Dec 3 |
